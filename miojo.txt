@@ -7,8 +7,9 @@ Ingredientes
 	
 Modo de Preparo
 
-
+---------------------------------------
 Categorias de miojo 
+---------------------------------------	
 	
 	* Comidas rápidas
 
@@ -16,4 +17,4 @@ Categorias de miojo
 
 	* Macarrão 
 
-	* Oriental 
+	* Oriental
