@@ -2,4 +2,14 @@
 
 Ingredientes
 Modo de Preparo
-Categorias
+
+
+Categorias de miojo 
+	
+	* Comidas rápidas
+
+	* Massas 
+
+	* Macarrão 
+
+	* OrientalCategorias
