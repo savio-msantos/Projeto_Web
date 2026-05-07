@@ -17,6 +17,7 @@ Misture bem com a colher até ficar homogêneo.
 
 
 Categorias de miojo 
+---------------------------------------	
 	
 	* Comidas rápidas
 
@@ -24,4 +25,4 @@ Categorias de miojo
 
 	* Macarrão 
 
-	* OrientalCategorias
+	* Oriental
